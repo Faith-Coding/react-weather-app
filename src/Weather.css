@@ -24,8 +24,6 @@ line-height: 19px;
 list-style: none;
 }
 .Weather canvas {
-height: 64px;
-width: 64px;
 margin-bottom: 10px;
 display: inline-block;
 
