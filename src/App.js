@@ -10,9 +10,8 @@ export default function App() {
         <footer>
           This project was coded by Akhigbe Faith and is {""}
           <a
-           
-            href="https://github.com/faithomoighe/Weather-App"
-            target="_blank" 
+            href="https://github.com/Faith-Coding/react-weather-app"
+            target="_blank"
             rel="noopener noreferrer"
           >
             Open Sourced on GitHub
